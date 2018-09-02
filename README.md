@@ -1,7 +1,8 @@
 ### Visualization of Historical Weather Patterns in Galesburg (Knox County) Illinois and Correlation with Crop Yield
 by Kelli Davies
 
-View project through ipynb file above.  This project is divided into two parts:
+View project here: **http://nbviewer.jupyter.org/github/kelli2/Weather_Pattern/blob/master/WeatherVizualizationProject_Davies.ipynb#contents**
+This project is divided into two parts:
 
 **I. Historical Temperature Trends**
 
